@@ -14,7 +14,6 @@ Before you guys begin, please make sure that you abide by the terms of the [CODE
 
 ### Updates Made
 - If making updates to markdown, use [GitHub Markdown](https://github.com/github/docs/blob/main/contributing/content-markup-reference.md).
-- If making updates to the code refer to 
 
 ### Pull Requests (PR)
 - When done with the changes open a [pull request](https://github.com/bradley-erickson/f21-se-hw2b/pulls).
